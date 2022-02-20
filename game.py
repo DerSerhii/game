@@ -53,6 +53,7 @@ def play():
 
         if query.lower() == 'exit':
             print("had a good time :)")
+            break
 
 
 if __name__ == '__main__':
